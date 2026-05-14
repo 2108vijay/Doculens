@@ -1,0 +1,5 @@
+.env
+best_model.pth
+__pycache__/
+*.pyc
+.venv/
