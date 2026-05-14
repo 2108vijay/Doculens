@@ -3,3 +3,4 @@ best_model.pth
 __pycache__/
 *.pyc
 .venv/
+best_model.pth
